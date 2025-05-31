@@ -1,4 +1,4 @@
-# Uber-Pickup-in-NYC
+# Uber Pickup in NYC
 ## Introduction
 
 With more than 15 million rides per day across 600 cities in 65 countries, Uber is growing rapidly and leaves an unprecedented impact in this new technological era. It has disrupted multiple industries including ride-sharing and food deliveries. With just an app, individuals can order their dinner or catch a ride to the airport, and as of 2019, 36 percent of US adults stated that they had used a ride-hailing app. As of today, there are approximately one million Uber drivers in the US, relying on this service for income. 
