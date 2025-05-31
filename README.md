@@ -1,2 +1,8 @@
 # Uber-Pickup-in-NYC
-Machine Learning
+I. INTRODUCTION
+
+With more than 15 million rides per day across 600 cities in 65 countries, Uber is growing rapidly and leaves an unprecedented impact in this new technological era. It has disrupted multiple industries including ride-sharing and food deliveries. With just an app, individuals can order their dinner or catch a ride to the airport, and as of 2019, 36 percent of US adults stated that they had used a ride-hailing app. As of today, there are approximately one million Uber drivers in the US, relying on this service for income. 
+
+It is easy to see how Uber creates convenience in people’s lives and will continue to grow especially in bigger metropolitan areas, such as New York City. Once dominated by yellow taxis, NYC has shifted to hailing rides mostly through Uber and Lyft. Additionally, with hundreds of thousands of pickups a month, it may be difficult to navigate the city as an Uber driver trying to find the most amount of pickups. In this project, the team members will analyze a dataset on Uber pickups in the New York City Metro Area found on Kaggle. This dataset describes the time and date of the pickup with latitude and longitude information. This data will allow visualization of most common pickup spots through scatterplots and heatmaps, and also allow individuals to understand the best pickup times depending on day of the week through similar methods. 
+
+The machine learning algorithms used in this project are K-Means Clustering, DBSCAN, and OPTICS which will help identify different clusters that are popular pickups in NYC and give drivers an idea on where to drive to for the best outcome. Analyzing and visualizing the data will also help Uber improve its business model and decision making skills.
