@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Uber Pickup in NYC</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2em;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      padding: 2em;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #003366;
+    }
+    a {
+      color: #1a73e8;
+    }
+    code {
+      background: #eee;
+      padding: 2px 4px;
+      border-radius: 4px;
+    }
+    ul {
+      line-height: 1.7;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🚖 Uber Pickup Analysis in NYC</h1>
+    <p><strong>Author:</strong> Fnu Gitanjali | <a href="https://www.linkedin.com/in/gitanjali-fnu/">LinkedIn</a></p>
+    <p>This project explores Uber pickup data in New York City using clustering, mapping, and time-based analysis techniques to uncover patterns and strategic insights.</p>
+
+    <h2>🔍 Project Highlights</h2>
+    <ul>
+      <li>Analyzed over 14 million records from NYC Uber pickups</li>
+      <li>Applied KMeans, DBSCAN, OPTICS, and BIRCH clustering to discover geographic trends</li>
+      <li>Visualized data using Folium heatmaps and time series charts</li>
+      <li>Identified surge hours and borough-level pickup demand</li>
+    </ul>
+
+    <h2>📊 Tools & Technologies</h2>
+    <ul>
+      <li><strong>Languages:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
+      <li><strong>Clustering:</strong> Scikit-learn</li>
+      <li><strong>Mapping:</strong> Folium</li>
+      <li><strong>Notebook:</strong> Jupyter</li>
+    </ul>
+
+    <h2>🔧 How to Run</h2>
+    <pre><code>git clone https://github.com/Gitanjali988/Uber-Pickup-in-NYC.git
+cd Uber-Pickup-in-NYC
+pip install -r requirements.txt
+jupyter notebook notebooks/final_project_clustering.ipynb</code></pre>
+
+    <h2>🌟 Key Takeaways</h2>
+    <ul>
+      <li>Manhattan remains the core pickup zone, but outer boroughs are growing ~10%</li>
+      <li>Evening rush hours and late weekends show surge demand</li>
+      <li>Clustering reveals entertainment zones and commuter hotspots</li>
+    </ul>
+
+    <p>View the full project on GitHub: <a href="https://github.com/Gitanjali988/Uber-Pickup-in-NYC">Uber-Pickup-in-NYC</a></p>
+  </div>
+</body>
+</html>
