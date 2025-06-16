@@ -20,8 +20,6 @@ This project analyzes Uber pickup data in New York City using clustering and vis
 
 ---
 
-## 📂 Project Structure
-
 
 ## Introduction
 
